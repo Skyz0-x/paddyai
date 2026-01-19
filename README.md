@@ -88,16 +88,6 @@ assets/
    flutter run
    ```
 
-## Key Guides & Documentation
-
-- [AI Implementation Guide](AI_IMPLEMENTATION_GUIDE.md) - Disease detection system
-- [Supabase Setup](SUPABASE_CERTIFICATE_SETUP.md) - Database configuration
-- [Firebase Integration](CHATBOT_SETUP.md) - Chatbot setup
-- [Testing Documentation](TEST_DOCUMENTATION.md) - Testing procedures
-- [SQL Setup](SQL_SETUP_GUIDE.md) - Database schema
-
-## API & Services
-
 ### Disease Detection Service
 - Analyzes uploaded images for rice diseases
 - Returns predictions with confidence scores
