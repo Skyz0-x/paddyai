@@ -1756,14 +1756,14 @@ mixin LocaleData {
     'increaseIrrigationFreq': 'Tingkatkan kekerapan pengairan.',
     
     // Weather Descriptions
-    'clearSky': 'Langit cerah',
-    'partlyCloudy': 'Sebahagian berawan',
+    'clearSky': 'Cerah',
+    'partlyCloudy': 'Berawan',
     'foggy': 'Berkabus',
     'drizzle': 'Gerimis',
     'rain': 'Hujan',
     'snow': 'Salji',
     'snowGrains': 'Butiran salji',
-    'rainShowers': 'Hujan renyai',
+    'rainShowers': 'Renyai',
     'snowShowers': 'Salji renyai',
     'thunderstorm': 'Ribut petir',
     'thunderstormHail': 'Ribut petir dengan hujan batu',
